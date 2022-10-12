@@ -3,14 +3,19 @@
 
 
 Create RESTfull API using any of the bellow technology 
+
  ***  Swagger Document for API(http://localhost:8080/swagger-ui/#/product-controller)***
+ 
 Java 8  with Spring Boot Or 
 Node and ExpressJs
 __________________________________________________________________________________________________
 
 Create Product entity and save below product in database (use any database of your choice).
+
 You should be able to perform CRUD operations on Product entity to add/update/delete products.
+
 getProducts method will calculate the final price of each product based on discount and other charges table . 
+
 Optionally add Angular/React UI for adding and removing products within the cart.
 ______________________________________________________________________________________________________
 
