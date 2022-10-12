@@ -20,13 +20,13 @@ Optionally add Angular/React UI for adding and removing products within the cart
 ______________________________________________________________________________________________________
 
 
-<img src="AlogoDomainTable1.jpg">
+<img src="image/AlogoDomainTable1.jpg">
 ___________________________________________________________________________________________________
 
 
 Disconts, Tax and Delivery charges (Per Category)
 
-<img src="AlogoDomainTable2.jpg">
+<img src="image\AlogoDomainTable2.jpg">
  
 
 ______________________________________________________________________________________________________
@@ -61,7 +61,7 @@ get Products JSON output as given below.
 _____________________________________________________________________________________________________________________________________
 output
 
-<img src="AlogoDomainTable3.jpg">
+<img src="image\AlogoDomainTable3.jpg">
 
 __________________________________________________________________________________________________________________________________________________________
 
